@@ -7,9 +7,7 @@ import org.springframework.context.annotation.PropertySource;
 public class ProductRunner {
     public static void main(String[] args) {
         ApplicationContext context = new AnnotationConfigApplicationContext("com.springcoreproject.annotation.bean");
-        
-
-
-
+        Product product = context.getBean("product", Product.class);
+        product.getProduct();
     }
 }
