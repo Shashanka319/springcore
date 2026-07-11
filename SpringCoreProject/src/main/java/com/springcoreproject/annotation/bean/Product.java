@@ -5,7 +5,6 @@ import org.springframework.stereotype.Component;
 
 @Log4j2
 @Component("product")
-
 public class Product {
     public Product() {
         log.info("Product Are Executing using Constructor");

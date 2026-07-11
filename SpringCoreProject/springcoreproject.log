@@ -54,3 +54,45 @@
 2026-07-11 17:52:14,664 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'product'
 2026-07-11 17:52:14,668 INFO c.s.a.b.Product [main] Product Are Executing using Constructor
 2026-07-11 17:52:14,702 INFO c.s.a.b.Product [main] Product Detailes Are Executing using Method
+2026-07-11 20:49:15,408 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\bean\Product.class]
+2026-07-11 20:49:15,425 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\bean\ProductDAO.class]
+2026-07-11 20:49:15,430 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\bean\ProductService.class]
+2026-07-11 20:49:15,442 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@156b88f5
+2026-07-11 20:49:15,476 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2026-07-11 20:49:15,532 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2026-07-11 20:49:15,535 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2026-07-11 20:49:15,545 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2026-07-11 20:49:15,548 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2026-07-11 20:49:15,563 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'product'
+2026-07-11 20:49:15,564 INFO c.s.a.b.Product [main] Product Are Executing using Constructor
+2026-07-11 20:49:15,568 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'productDAO'
+2026-07-11 20:49:15,569 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'productService'
+2026-07-11 20:49:15,599 INFO c.s.a.b.Product [main] Product Detailes Are Executing using Method
+2026-07-11 20:50:09,101 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\bean\Product.class]
+2026-07-11 20:50:09,112 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\bean\ProductDAO.class]
+2026-07-11 20:50:09,116 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\bean\ProductService.class]
+2026-07-11 20:50:09,126 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@156b88f5
+2026-07-11 20:50:09,151 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2026-07-11 20:50:09,190 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2026-07-11 20:50:09,193 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2026-07-11 20:50:09,194 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2026-07-11 20:50:09,196 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2026-07-11 20:50:09,203 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'product'
+2026-07-11 20:50:09,204 INFO c.s.a.b.Product [main] Product Are Executing using Constructor
+2026-07-11 20:50:09,207 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'productDAO'
+2026-07-11 20:50:09,208 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'productService'
+2026-07-11 20:50:09,231 INFO c.s.a.b.Product [main] Product Detailes Are Executing using Method
+2026-07-11 20:51:27,001 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\bean\Product.class]
+2026-07-11 20:51:27,010 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\bean\ProductDAO.class]
+2026-07-11 20:51:27,013 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\bean\ProductService.class]
+2026-07-11 20:51:27,021 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@156b88f5
+2026-07-11 20:51:27,040 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2026-07-11 20:51:27,076 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2026-07-11 20:51:27,079 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2026-07-11 20:51:27,081 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2026-07-11 20:51:27,083 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2026-07-11 20:51:27,090 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'product'
+2026-07-11 20:51:27,091 INFO c.s.a.b.Product [main] Product Are Executing using Constructor
+2026-07-11 20:51:27,094 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'productDAO'
+2026-07-11 20:51:27,095 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'productService'
+2026-07-11 20:51:27,114 INFO c.s.a.b.Product [main] Product Detailes Are Executing using Method
