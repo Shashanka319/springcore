@@ -12,13 +12,12 @@ import java.util.Date;
 public class ApplicationConfig{
     @Bean("currentDate")
     public Date currentDate(){
-        return new Date();
+        return new  Date();
     }
-    @Bean("currentCalendar")
+   @Bean("currentCalendar")
     public Calendar currentCalendar(){
         return Calendar.getInstance();
-    }
-
+   }
 
 
 }
