@@ -42,3 +42,139 @@
 2026-07-12 10:52:11,006 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'applicationConfig'
 2026-07-12 10:52:11,016 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'currentDate'
 2026-07-12 10:52:11,085 INFO c.s.a.j.main [main] Current Date:Sun Jul 12 10:52:11 IST 2026
+2026-07-12 10:59:56,130 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\javabased\ApplicationConfig.class]
+2026-07-12 10:59:56,151 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@156b88f5
+2026-07-12 10:59:56,185 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2026-07-12 10:59:56,375 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2026-07-12 10:59:56,380 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2026-07-12 10:59:56,382 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2026-07-12 10:59:56,385 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2026-07-12 10:59:56,397 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'applicationConfig'
+2026-07-12 10:59:56,407 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'currentDate'
+2026-07-12 10:59:56,415 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'cuurentCalender'
+2026-07-12 10:59:56,471 INFO c.s.a.j.main [main] Current Date:Sun Jul 12 10:59:56 IST 2026
+2026-07-12 11:01:10,542 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\javabased\ApplicationConfig.class]
+2026-07-12 11:01:10,560 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@156b88f5
+2026-07-12 11:01:10,590 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2026-07-12 11:01:10,762 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2026-07-12 11:01:10,766 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2026-07-12 11:01:10,768 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2026-07-12 11:01:10,771 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2026-07-12 11:01:10,784 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'applicationConfig'
+2026-07-12 11:01:10,796 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'currentDate'
+2026-07-12 11:01:10,804 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'cuurentCalender'
+2026-07-12 11:01:10,856 INFO c.s.a.j.main [main] Current Date:Sun Jul 12 11:01:10 IST 2026
+2026-07-12 11:02:07,533 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\javabased\ApplicationConfig.class]
+2026-07-12 11:02:07,554 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@156b88f5
+2026-07-12 11:02:07,585 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2026-07-12 11:02:07,770 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2026-07-12 11:02:07,773 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2026-07-12 11:02:07,776 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2026-07-12 11:02:07,779 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2026-07-12 11:02:07,796 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'applicationConfig'
+2026-07-12 11:02:07,810 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'currentDate'
+2026-07-12 11:02:07,821 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'cuurentCalender'
+2026-07-12 11:02:07,891 INFO c.s.a.j.main [main] Current Date:Sun Jul 12 11:02:07 IST 2026
+2026-07-12 11:04:26,577 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\javabased\ApplicationConfig.class]
+2026-07-12 11:04:26,589 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@156b88f5
+2026-07-12 11:04:26,608 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2026-07-12 11:04:26,712 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2026-07-12 11:04:26,716 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2026-07-12 11:04:26,718 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2026-07-12 11:04:26,720 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2026-07-12 11:04:26,729 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'applicationConfig'
+2026-07-12 11:04:26,736 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'currentDate'
+2026-07-12 11:04:26,740 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'cuurentCalender'
+2026-07-12 11:04:26,779 INFO c.s.a.j.main [main] Current Date:Sun Jul 12 11:04:26 IST 2026
+2026-07-12 11:04:57,004 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\javabased\ApplicationConfig.class]
+2026-07-12 11:04:57,016 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@156b88f5
+2026-07-12 11:04:57,033 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2026-07-12 11:04:57,148 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2026-07-12 11:04:57,152 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2026-07-12 11:04:57,153 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2026-07-12 11:04:57,155 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2026-07-12 11:04:57,163 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'applicationConfig'
+2026-07-12 11:04:57,171 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'currentDate'
+2026-07-12 11:04:57,177 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'cuurentCalender'
+2026-07-12 11:04:57,223 INFO c.s.a.j.main [main] Current Date:Sun Jul 12 11:04:57 IST 2026
+2026-07-12 11:08:18,242 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\javabased\ApplicationConfig.class]
+2026-07-12 11:08:18,254 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@156b88f5
+2026-07-12 11:08:18,271 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2026-07-12 11:08:18,396 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2026-07-12 11:08:18,399 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2026-07-12 11:08:18,400 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2026-07-12 11:08:18,402 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2026-07-12 11:08:18,411 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'applicationConfig'
+2026-07-12 11:08:18,419 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'currentDate'
+2026-07-12 11:08:18,425 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'currentCalender'
+2026-07-12 11:08:18,468 INFO c.s.a.j.main [main] Current Date:Sun Jul 12 11:08:18 IST 2026
+2026-07-12 11:09:39,957 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\javabased\ApplicationConfig.class]
+2026-07-12 11:09:39,970 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@156b88f5
+2026-07-12 11:09:39,991 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2026-07-12 11:09:40,112 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2026-07-12 11:09:40,115 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2026-07-12 11:09:40,116 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2026-07-12 11:09:40,118 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2026-07-12 11:09:40,128 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'applicationConfig'
+2026-07-12 11:09:40,137 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'currentDate'
+2026-07-12 11:09:40,143 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'currentCalendar'
+2026-07-12 11:09:40,183 INFO c.s.a.j.main [main] Current Date:Sun Jul 12 11:09:40 IST 2026
+2026-07-12 11:09:40,184 INFO c.s.a.j.main [main] Current Calendar:Sun Jul 12 11:09:40 IST 2026
+2026-07-12 11:10:21,727 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\javabased\ApplicationConfig.class]
+2026-07-12 11:10:21,740 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@156b88f5
+2026-07-12 11:10:21,759 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2026-07-12 11:10:21,864 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2026-07-12 11:10:21,867 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2026-07-12 11:10:21,868 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2026-07-12 11:10:21,870 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2026-07-12 11:10:21,880 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'applicationConfig'
+2026-07-12 11:10:21,887 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'currentDate'
+2026-07-12 11:10:21,892 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'currentCalendar'
+2026-07-12 11:10:21,928 INFO c.s.a.j.main [main] Current Date:Sun Jul 12 11:10:21 IST 2026
+2026-07-12 11:10:21,928 INFO c.s.a.j.main [main] Current Calendar:Sun Jul 12 11:10:21 IST 2026
+2026-07-12 11:10:21,933 INFO c.s.a.j.main [main] Current Year:
+2026-07-12 11:10:33,617 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\javabased\ApplicationConfig.class]
+2026-07-12 11:10:33,629 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@156b88f5
+2026-07-12 11:10:33,647 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2026-07-12 11:10:33,756 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2026-07-12 11:10:33,757 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2026-07-12 11:10:33,759 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2026-07-12 11:10:33,761 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2026-07-12 11:10:33,770 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'applicationConfig'
+2026-07-12 11:10:33,778 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'currentDate'
+2026-07-12 11:10:33,783 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'currentCalendar'
+2026-07-12 11:10:33,822 INFO c.s.a.j.main [main] Current Date:Sun Jul 12 11:10:33 IST 2026
+2026-07-12 11:10:33,823 INFO c.s.a.j.main [main] Current Calendar:Sun Jul 12 11:10:33 IST 2026
+2026-07-12 11:10:33,823 INFO c.s.a.j.main [main] Current Year:2026
+2026-07-12 11:10:57,363 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\javabased\ApplicationConfig.class]
+2026-07-12 11:10:57,378 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@156b88f5
+2026-07-12 11:10:57,398 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2026-07-12 11:10:57,517 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2026-07-12 11:10:57,520 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2026-07-12 11:10:57,521 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2026-07-12 11:10:57,523 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2026-07-12 11:10:57,532 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'applicationConfig'
+2026-07-12 11:10:57,539 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'currentDate'
+2026-07-12 11:10:57,544 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'currentCalendar'
+2026-07-12 11:10:57,582 INFO c.s.a.j.main [main] Current Date:Sun Jul 12 11:10:57 IST 2026
+2026-07-12 11:10:57,582 INFO c.s.a.j.main [main] Current Calendar:Sun Jul 12 11:10:57 IST 2026
+2026-07-12 11:10:57,582 INFO c.s.a.j.main [main] Current Year:2026
+2026-07-12 11:11:23,904 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\javabased\ApplicationConfig.class]
+2026-07-12 11:11:23,916 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@156b88f5
+2026-07-12 11:11:23,933 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2026-07-12 11:11:24,049 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2026-07-12 11:11:24,051 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2026-07-12 11:11:24,053 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2026-07-12 11:11:24,054 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2026-07-12 11:11:24,063 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'applicationConfig'
+2026-07-12 11:11:24,071 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'currentDate'
+2026-07-12 11:11:24,077 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'currentCalendar'
+2026-07-12 11:11:24,116 INFO c.s.a.j.main [main] Current Date:Sun Jul 12 11:11:24 IST 2026
+2026-07-12 11:11:24,116 INFO c.s.a.j.main [main] Current Calendar:Sun Jul 12 11:11:24 IST 2026
+2026-07-12 11:11:24,117 INFO c.s.a.j.main [main] Current Year:2026
+2026-07-12 11:11:24,117 INFO c.s.a.j.main [main] Current Month:6
+2026-07-12 11:11:24,117 INFO c.s.a.j.main [main] Current Day:12
+2026-07-12 11:11:24,118 INFO c.s.a.j.main [main] Current Hour:11
+2026-07-12 11:11:24,118 INFO c.s.a.j.main [main] Current Minute:11
+2026-07-12 11:11:24,118 INFO c.s.a.j.main [main] Current Second:24
+2026-07-12 11:11:24,118 INFO c.s.a.j.main [main] Current Millisecond:78

@@ -4,6 +4,7 @@ import lombok.extern.log4j.Log4j2;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
+import java.util.Calendar;
 import java.util.Date;
 
 @Configuration
@@ -13,6 +14,11 @@ public class ApplicationConfig{
     public Date currentDate(){
         return new Date();
     }
+    @Bean("currentCalendar")
+    public Calendar currentCalendar(){
+        return Calendar.getInstance();
+    }
+
 
 
 }
