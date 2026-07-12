@@ -6,6 +6,9 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 
 import java.util.Date;
 
+
+
+import java.util.Date;
 @Log4j2
 
 public class main {
@@ -13,6 +16,9 @@ public class main {
         ApplicationContext context = new AnnotationConfigApplicationContext("com.springcoreproject.annotation.javabased");
         Date currentDate =(Date) context.getBean("currentDate",Date.class);
         log.info("Current Date:"+currentDate);
+
+
+
 
     }
 }

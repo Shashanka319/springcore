@@ -32,3 +32,13 @@
 2026-07-12 10:42:31,002 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'applicationConfig'
 2026-07-12 10:42:31,019 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'currentDate'
 2026-07-12 10:42:31,088 INFO c.s.a.j.main [main] Current Date:Sun Jul 12 10:42:31 IST 2026
+2026-07-12 10:52:10,704 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\javabased\ApplicationConfig.class]
+2026-07-12 10:52:10,726 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@156b88f5
+2026-07-12 10:52:10,760 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2026-07-12 10:52:10,974 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2026-07-12 10:52:10,980 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2026-07-12 10:52:10,984 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2026-07-12 10:52:10,988 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2026-07-12 10:52:11,006 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'applicationConfig'
+2026-07-12 10:52:11,016 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'currentDate'
+2026-07-12 10:52:11,085 INFO c.s.a.j.main [main] Current Date:Sun Jul 12 10:52:11 IST 2026

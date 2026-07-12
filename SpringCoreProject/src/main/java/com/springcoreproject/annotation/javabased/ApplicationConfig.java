@@ -6,12 +6,13 @@ import org.springframework.context.annotation.Configuration;
 
 import java.util.Date;
 
-@Log4j2
 @Configuration
-
-public class ApplicationConfig {
+@Log4j2
+public class ApplicationConfig{
     @Bean("currentDate")
     public Date currentDate(){
         return new Date();
     }
+
+
 }
