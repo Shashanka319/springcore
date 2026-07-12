@@ -262,3 +262,169 @@
 2026-07-12 12:07:47,439 INFO c.s.a.d.Account [main] Account name is Canara Bank
 2026-07-12 12:07:47,439 INFO c.s.a.d.Account [main] Account Number is 1560108012106
 2026-07-12 12:07:47,440 INFO c.s.a.d.Account [main] Account balance is 5000.0
+2026-07-12 12:44:40,115 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Account.class]
+2026-07-12 12:44:40,120 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Customer.class]
+2026-07-12 12:44:40,121 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Driver.class]
+2026-07-12 12:44:40,124 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Honda.class]
+2026-07-12 12:44:40,125 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Toyota.class]
+2026-07-12 12:44:40,126 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Ignored because not a concrete top-level class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Vehicle.class]
+2026-07-12 12:44:40,135 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@156b88f5
+2026-07-12 12:44:40,158 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2026-07-12 12:44:40,197 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2026-07-12 12:44:40,199 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2026-07-12 12:44:40,201 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2026-07-12 12:44:40,203 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2026-07-12 12:44:40,210 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'account'
+2026-07-12 12:44:40,223 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'customer'
+2026-07-12 12:44:40,225 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'driver'
+2026-07-12 12:44:40,237 WARN o.s.c.s.AbstractApplicationContext [main] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'driver': Unsatisfied dependency expressed through field 'vehicle': No qualifying bean of type 'com.springcoreproject.annotation.di.Vehicle' available: expected single matching bean but found 2: honda,toyota
+2026-07-12 12:46:51,830 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Account.class]
+2026-07-12 12:46:51,835 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Customer.class]
+2026-07-12 12:46:51,836 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Driver.class]
+2026-07-12 12:46:51,840 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Honda.class]
+2026-07-12 12:46:51,841 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Toyota.class]
+2026-07-12 12:46:51,842 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Ignored because not a concrete top-level class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Vehicle.class]
+2026-07-12 12:46:51,851 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@156b88f5
+2026-07-12 12:46:51,876 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2026-07-12 12:46:51,917 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2026-07-12 12:46:51,919 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2026-07-12 12:46:51,921 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2026-07-12 12:46:51,923 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2026-07-12 12:46:51,931 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'account'
+2026-07-12 12:46:51,945 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'customer'
+2026-07-12 12:46:51,947 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'driver'
+2026-07-12 12:46:51,952 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'honda'
+2026-07-12 12:46:51,953 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'toyota'
+2026-07-12 12:46:51,982 INFO c.s.a.d.Driver [main] Driver Name:null
+2026-07-12 12:46:51,983 INFO c.s.a.d.Driver [main] Driver Age:0
+2026-07-12 12:46:51,983 INFO c.s.a.d.Honda [main] Honda engine is Started
+2026-07-12 12:47:17,829 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Account.class]
+2026-07-12 12:47:17,835 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Customer.class]
+2026-07-12 12:47:17,837 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Driver.class]
+2026-07-12 12:47:17,839 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Honda.class]
+2026-07-12 12:47:17,840 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Toyota.class]
+2026-07-12 12:47:17,842 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Ignored because not a concrete top-level class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Vehicle.class]
+2026-07-12 12:47:17,852 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@156b88f5
+2026-07-12 12:47:17,876 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2026-07-12 12:47:17,918 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2026-07-12 12:47:17,920 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2026-07-12 12:47:17,921 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2026-07-12 12:47:17,922 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2026-07-12 12:47:17,930 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'account'
+2026-07-12 12:47:17,943 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'customer'
+2026-07-12 12:47:17,945 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'driver'
+2026-07-12 12:47:17,957 WARN o.s.c.s.AbstractApplicationContext [main] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'driver': Unsatisfied dependency expressed through field 'vehicle': No qualifying bean of type 'com.springcoreproject.annotation.di.Vehicle' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Qualifier("honda"), @org.springframework.beans.factory.annotation.Autowired(required=true)}
+2026-07-12 12:47:35,517 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Account.class]
+2026-07-12 12:47:35,521 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Customer.class]
+2026-07-12 12:47:35,522 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Driver.class]
+2026-07-12 12:47:35,525 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Honda.class]
+2026-07-12 12:47:35,526 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Toyota.class]
+2026-07-12 12:47:35,527 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Ignored because not a concrete top-level class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Vehicle.class]
+2026-07-12 12:47:35,535 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@156b88f5
+2026-07-12 12:47:35,554 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2026-07-12 12:47:35,592 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2026-07-12 12:47:35,594 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2026-07-12 12:47:35,595 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2026-07-12 12:47:35,597 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2026-07-12 12:47:35,603 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'account'
+2026-07-12 12:47:35,618 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'customer'
+2026-07-12 12:47:35,620 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'driver'
+2026-07-12 12:47:35,626 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'honda'
+2026-07-12 12:47:35,627 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'toyota'
+2026-07-12 12:47:35,655 INFO c.s.a.d.Driver [main] Driver Name:null
+2026-07-12 12:47:35,659 INFO c.s.a.d.Driver [main] Driver Age:0
+2026-07-12 12:47:35,660 INFO c.s.a.d.Honda [main] Honda engine is Started
+2026-07-12 12:49:25,830 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Account.class]
+2026-07-12 12:49:25,835 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Customer.class]
+2026-07-12 12:49:25,837 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Driver.class]
+2026-07-12 12:49:25,839 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Honda.class]
+2026-07-12 12:49:25,841 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Toyota.class]
+2026-07-12 12:49:25,842 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Ignored because not a concrete top-level class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Vehicle.class]
+2026-07-12 12:49:25,852 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@156b88f5
+2026-07-12 12:49:25,874 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2026-07-12 12:49:25,914 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2026-07-12 12:49:25,917 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2026-07-12 12:49:25,919 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2026-07-12 12:49:25,921 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2026-07-12 12:49:25,928 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'account'
+2026-07-12 12:49:25,941 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'customer'
+2026-07-12 12:49:25,943 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'driver'
+2026-07-12 12:49:25,947 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'honda'
+2026-07-12 12:49:25,948 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'toyota'
+2026-07-12 12:49:25,974 INFO c.s.a.d.Driver [main] Driver Name:shashank
+2026-07-12 12:49:25,974 INFO c.s.a.d.Driver [main] Driver Age:22
+2026-07-12 12:49:25,975 INFO c.s.a.d.Honda [main] Honda engine is Started
+2026-07-12 12:50:12,849 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Account.class]
+2026-07-12 12:50:12,855 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Customer.class]
+2026-07-12 12:50:12,856 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Driver.class]
+2026-07-12 12:50:12,859 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Honda.class]
+2026-07-12 12:50:12,860 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Toyota.class]
+2026-07-12 12:50:12,861 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Ignored because not a concrete top-level class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Vehicle.class]
+2026-07-12 12:50:12,872 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@156b88f5
+2026-07-12 12:50:12,899 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2026-07-12 12:50:12,940 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2026-07-12 12:50:12,942 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2026-07-12 12:50:12,944 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2026-07-12 12:50:12,946 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2026-07-12 12:50:12,954 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'account'
+2026-07-12 12:50:12,967 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'customer'
+2026-07-12 12:50:12,969 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'driver'
+2026-07-12 12:50:12,975 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'honda'
+2026-07-12 12:50:12,975 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'toyota'
+2026-07-12 12:50:13,004 INFO c.s.a.d.Driver [main] Driver Name:Shambu
+2026-07-12 12:50:13,005 INFO c.s.a.d.Driver [main] Driver Age:18
+2026-07-12 12:50:13,005 INFO c.s.a.d.Honda [main] Honda engine is Started
+2026-07-12 13:02:08,167 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Account.class]
+2026-07-12 13:02:08,171 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Ignored because not a concrete top-level class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Bank.class]
+2026-07-12 13:02:08,172 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\CurrentAccount.class]
+2026-07-12 13:02:08,174 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Customer.class]
+2026-07-12 13:02:08,175 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Driver.class]
+2026-07-12 13:02:08,177 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Honda.class]
+2026-07-12 13:02:08,179 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\SavingAccount.class]
+2026-07-12 13:02:08,179 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Toyota.class]
+2026-07-12 13:02:08,180 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\User.class]
+2026-07-12 13:02:08,182 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Ignored because not a concrete top-level class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Vehicle.class]
+2026-07-12 13:02:08,190 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@156b88f5
+2026-07-12 13:02:08,214 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2026-07-12 13:02:08,256 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2026-07-12 13:02:08,258 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2026-07-12 13:02:08,260 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2026-07-12 13:02:08,262 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2026-07-12 13:02:08,269 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'account'
+2026-07-12 13:02:08,284 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'customer'
+2026-07-12 13:02:08,286 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'currentAccount'
+2026-07-12 13:02:08,287 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'driver'
+2026-07-12 13:02:08,293 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'honda'
+2026-07-12 13:02:08,295 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'savingAccount'
+2026-07-12 13:02:08,295 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'toyota'
+2026-07-12 13:02:08,296 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'user'
+2026-07-12 13:02:08,303 WARN o.s.c.s.AbstractApplicationContext [main] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'user': Unsatisfied dependency expressed through field 'bank': No qualifying bean of type 'com.springcoreproject.annotation.di.Bank' available: expected single matching bean but found 2: currentAccount,savingAccount
+2026-07-12 13:03:04,422 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Account.class]
+2026-07-12 13:03:04,426 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Ignored because not a concrete top-level class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Bank.class]
+2026-07-12 13:03:04,427 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\CurrentAccount.class]
+2026-07-12 13:03:04,429 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Customer.class]
+2026-07-12 13:03:04,430 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Driver.class]
+2026-07-12 13:03:04,432 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Honda.class]
+2026-07-12 13:03:04,433 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\SavingAccount.class]
+2026-07-12 13:03:04,434 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Toyota.class]
+2026-07-12 13:03:04,435 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\User.class]
+2026-07-12 13:03:04,437 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Ignored because not a concrete top-level class: file [C:\Xworkz Internship\springcore\SpringCoreProject\build\classes\java\main\com\springcoreproject\annotation\di\Vehicle.class]
+2026-07-12 13:03:04,446 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@156b88f5
+2026-07-12 13:03:04,470 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2026-07-12 13:03:04,512 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2026-07-12 13:03:04,514 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2026-07-12 13:03:04,515 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2026-07-12 13:03:04,517 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2026-07-12 13:03:04,524 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'account'
+2026-07-12 13:03:04,538 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'customer'
+2026-07-12 13:03:04,540 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'currentAccount'
+2026-07-12 13:03:04,541 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'driver'
+2026-07-12 13:03:04,547 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'honda'
+2026-07-12 13:03:04,548 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'savingAccount'
+2026-07-12 13:03:04,548 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'toyota'
+2026-07-12 13:03:04,549 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'user'
+2026-07-12 13:03:04,564 INFO c.s.a.d.User [main] Execute the user Information
+2026-07-12 13:03:04,571 INFO c.s.a.d.User [main] User Name:Shashank
+2026-07-12 13:03:04,572 INFO c.s.a.d.User [main] User Age:22
+2026-07-12 13:03:04,572 INFO c.s.a.d.User [main] User Acc No:1560108012106
+2026-07-12 13:03:04,572 INFO c.s.a.d.SavingAccount [main] Transaction procees Starting through Saving Account
